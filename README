@@ -1,0 +1,12 @@
+rlcsim
+--------
+
+rlcsim is an arbritrary RLC (Resistor, Inductor, Capacitor) series circuit simulator.
+It arose from a discussion about what would happen if static was put through an RLC circuit.
+
+
+At the current moment, rlcsim is not flexible. At all.
+This will be rectified eventually. Hopefully soon.
+
+
+- Kupiakos
